@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/pre_data/extract_wangxifeng_dialogue.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pre_data/feng_chatml3.1.2.jsonl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pre_data/feng_chatml3.1.2.jsonl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pre_data/feng_dialogue_flow3.1.2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pre_data/feng_dialogue_flow3.1.2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pre_data/hongloumeng.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pre_data/hongloumeng.txt" charset="GBK" />
+  </component>
+</project>
